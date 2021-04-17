@@ -1,0 +1,128 @@
+/*****************tag selectors************************/
+body {
+  background-color: #f4f9f9;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+}
+
+.topcontainer {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 90px;
+  padding-bottom: 100px;
+}
+.hello{
+  font-size: 40px;
+}
+
+h1 {
+  font-size: 66px;
+  top: 20px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2%;
+}
+
+.p-1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 40px;
+  color: #66BFBF;
+}
+
+.middle-container {
+  background-color: white;
+  margin: 100px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 3;
+}
+
+.skill-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.swim-img {
+  float: right;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: relative;
+  left: 250px;
+  top: -10px;
+}
+
+.profile-pic {
+  border-radius: 100%;
+  width: 220px;
+  height: 220px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 8px;
+  width: 4%;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  width: relative;
+}
+.btm-para{
+  color: #EAF6F6;
+}
+
+.h2-color {
+  color: red;
+}
+
+.h3-color {
+  color: green;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 15px;
+  background-color: #66BFBF;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #11999E;
+}
+
+h3 {
+  color: #11999E;
+  font-size: 50px;
+}
